@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Karo Wieczorek - Senior Product Designer Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karowieczorek/portfolio.git"
+  },
+  "author": "Karo Wieczorek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karowieczorek/portfolio/issues"
+  },
+  "homepage": "https://github.com/karowieczorek/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
